@@ -1,2 +1,3 @@
 Hello
 hello again
+this is an example of merge conflict
